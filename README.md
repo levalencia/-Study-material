@@ -13,7 +13,7 @@
 1.  [2020 Machine Learning Roadmap (95% valid for 2023)](https://www.youtube.com/watch?v=pHiMN_gy9mk&t=2308s)
 2. [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 3. [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-
+4. [Git and Github Tutorial | Learn Git & Github from Andrei Neagoie](https://www.youtube.com/watch?v=JN63v_czZqI)
 
 ## Free Resources
 
