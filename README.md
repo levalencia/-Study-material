@@ -4,7 +4,9 @@
 
 1. [Python](https://github.com/levalencia/python-cheatsheet)
 2. [Python ZTM Cheatsheet](https://www.dropbox.com/s/nr7coziosqkce9o/Python_Cheatsheet_Zero_To_Mastery_V1.05.pdf?dl=0&utm_campaign=your_python_cheatsheet_pdf_download&utm_medium=email&utm_source=mailerlite&utm_term=2023-02-12)
-
+3. [Big O Cheatsheet](https://www.dropbox.com/s/w1ogy8310myxs9f/BigO_Cheatsheet_Zero_To_Mastery_V1.01.pdf?dl=0&utm_campaign=your_big_o_cheatsheet_pdf_download&utm_medium=email&utm_source=mailerlite&utm_term=2023-02-13)
+4. [Pytorch Cheatsheet](https://www.dropbox.com/s/9a5wgn6kenlkveu/PyTorch_Cheatsheet_Zero_To_Mastery_V1.01_PDF.pdf?dl=0&utm_campaign=your_pytorch_cheat_sheet_pdf_download&utm_medium=email&utm_source=mailerlite&utm_term=2023-02-11)
+5. [Business Analytics with Python Cheatsheet](https://www.dropbox.com/s/9a5wgn6kenlkveu/PyTorch_Cheatsheet_Zero_To_Mastery_V1.01_PDF.pdf?dl=0&utm_campaign=your_pytorch_cheat_sheet_pdf_download&utm_medium=email&utm_source=mailerlite&utm_term=2023-02-11)
 
 ## Videos or Videos Playlists
 
