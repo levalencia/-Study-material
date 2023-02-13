@@ -1,5 +1,10 @@
 # codebase
 
+## Courses
+
+1. [ Learn How to Build Cutting-Edge Models ](https://huggingface.co/course/chapter1/1)
+
+
 ## Cheatsheets
 
 1. [Python](https://github.com/levalencia/python-cheatsheet)
