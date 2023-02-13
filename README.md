@@ -18,3 +18,8 @@
 ## Free Resources
 
 1. [ZTM Free resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2023-02-12)
+
+
+## Prompting in CHATGPT
+1. [45 ChatGPT use cases](https://www.linkedin.com/feed/update/urn:li:activity:7030474979649466368/)
+2. 
