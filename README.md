@@ -23,3 +23,6 @@
 ## Prompting in CHATGPT
 1. [45 ChatGPT use cases](https://www.linkedin.com/feed/update/urn:li:activity:7030474979649466368/)
 2. 
+
+## Interviews
+1. [DataInterview 100 Key Concepts to Know for Data Science Interviews] (https://docs.google.com/document/d/12gqPgNLtB1m4833jrP6k15JQNjH8YNlxGzbJoVcUtf0/edit)
