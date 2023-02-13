@@ -13,3 +13,8 @@
 1.  [2020 Machine Learning Roadmap (95% valid for 2023)](https://www.youtube.com/watch?v=pHiMN_gy9mk&t=2308s)
 2. [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 3. [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+
+## Free Resources
+
+1. [ZTM Free resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2023-02-12)
