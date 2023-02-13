@@ -3,6 +3,7 @@
 ## Cheatsheets
 
 1. [Python](https://github.com/levalencia/python-cheatsheet)
+2. [Python ZTM Cheatsheet](https://www.dropbox.com/s/nr7coziosqkce9o/Python_Cheatsheet_Zero_To_Mastery_V1.05.pdf?dl=0&utm_campaign=your_python_cheatsheet_pdf_download&utm_medium=email&utm_source=mailerlite&utm_term=2023-02-12)
 
 
 ## Videos or Videos Playlists
