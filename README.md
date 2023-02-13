@@ -34,3 +34,4 @@
 
 ## Interviews
 1. [DataInterview 100 Key Concepts to Know for Data Science Interviews] (https://docs.google.com/document/d/12gqPgNLtB1m4833jrP6k15JQNjH8YNlxGzbJoVcUtf0/edit)
+2. [𝐓𝐡𝐢𝐬 𝐩𝐨𝐬𝐭 𝐡𝐚𝐬 𝐭𝐡𝐞 𝐩𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐠𝐮𝐢𝐝𝐞𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐚𝐥𝐥 𝐫𝐨𝐮𝐧𝐝𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰.](https://www.linkedin.com/feed/update/urn:li:activity:7028573057480835072/)
