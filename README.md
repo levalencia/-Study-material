@@ -4,6 +4,8 @@
 ## Study Material
 1. [Zero to Mastery Machine Learning](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master)
 2. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+3. [Start Machine Learning in 2023 - Become an expert for free](https://github.com/louisfb01/start-machine-learning)
+4. [Getting started with Anaconda, Conda, Miniconda](https://whimsical.com/getting-started-anaconda-miniconda-and-conda-BD751gt65nKjAD5i1CNEXU)
 
 ## Recommended Git Repos
 1. [Microsoft Recommenders Systems](https://github.com/microsoft/recommenders)
@@ -35,16 +37,18 @@
 ## Free Resources
 1. [ZTM Free resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2023-02-12)
 
+## Blog Posts
+1. [Day To Day At Microsoft - Doing A Data Science Project](https://miguelgfierro.com/blog/2022/discover-my-day-to-day-at-microsoft-doing-a-data-science-project/?utm_source=sendy&utm_medium=post&utm_campaign=python_project)
+
 
 ## Prompting in CHATGPT
 1. [45 ChatGPT use cases](https://www.linkedin.com/feed/update/urn:li:activity:7030474979649466368/)
-
 
 ## Datasets
 1. [𝟭𝟬 𝗙𝗥𝗘𝗘 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝘆𝗼𝘂𝗿 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼](https://www.linkedin.com/feed/update/urn:li:activity:7028339013920980992/)
 
 ## Interviews & Job Preparation
-1. [DataInterview 100 Key Concepts to Know for Data Science Interviews] (https://docs.google.com/document/d/12gqPgNLtB1m4833jrP6k15JQNjH8YNlxGzbJoVcUtf0/edit)
+1. [DataInterview 100 Key Concepts to Know for Data Science Interviews](https://docs.google.com/document/d/12gqPgNLtB1m4833jrP6k15JQNjH8YNlxGzbJoVcUtf0/edit)
 2. [𝐓𝐡𝐢𝐬 𝐩𝐨𝐬𝐭 𝐡𝐚𝐬 𝐭𝐡𝐞 𝐩𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐠𝐮𝐢𝐝𝐞𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐚𝐥𝐥 𝐫𝐨𝐮𝐧𝐝𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰.](https://www.linkedin.com/feed/update/urn:li:activity:7028573057480835072/)
 3. [Algo Expert](https://www.algoexpert.io/purchase)
 4. [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
@@ -67,4 +71,5 @@
 ## Social Tools
 1. [Shields.IO](https://shields.io/category/social)
 
-
+## Ethical AI
+1. [The Institute for Ethical AI & Machine Learning](https://ethical.institute/principles.html)
