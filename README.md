@@ -6,6 +6,10 @@
 2. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 3. [Start Machine Learning in 2023 - Become an expert for free](https://github.com/louisfb01/start-machine-learning)
 4. [Getting started with Anaconda, Conda, Miniconda](https://whimsical.com/getting-started-anaconda-miniconda-and-conda-BD751gt65nKjAD5i1CNEXU)
+5. [Machine Learning Research DL Book Study Group](https://www.linkedin.com/feed/update/urn:li:activity:7033812900381130753/)
+6. [𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝗡𝗟𝗣 𝗣𝗮𝗽𝗲𝗿𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://www.linkedin.com/feed/update/urn:li:activity:7033083085587890176/)
+7. [Gradient Descent in ML](https://www.linkedin.com/feed/update/urn:li:activity:7032352321711800320/)
+8. [Stop using pandas](https://www.linkedin.com/feed/update/urn:li:activity:7031275969021698048/)
 
 ## Recommended Git Repos
 1. [Microsoft Recommenders Systems](https://github.com/microsoft/recommenders)
@@ -43,6 +47,12 @@
 
 ## Prompting in CHATGPT
 1. [45 ChatGPT use cases](https://www.linkedin.com/feed/update/urn:li:activity:7030474979649466368/)
+2. [3 mistakes to avoid with ChatGPT](https://www.linkedin.com/feed/update/urn:li:activity:7034899052315996160/)
+3. [How to actually use ChatGPT](https://www.linkedin.com/feed/update/urn:li:activity:7034873600264335360/)
+4. [Prompt Engineering Guide](https://www.linkedin.com/feed/update/urn:li:activity:7034896686514593792/)
+5. [10 techniques to get massively ahead with AI](https://www.linkedin.com/feed/update/urn:li:activity:7031183410404495360/)
+
+
 
 ## Datasets
 1. [𝟭𝟬 𝗙𝗥𝗘𝗘 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝘆𝗼𝘂𝗿 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼](https://www.linkedin.com/feed/update/urn:li:activity:7028339013920980992/)
@@ -58,6 +68,12 @@
 8. [Leet Code Top 100 Liked Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 9. [Remote US Jobs Turing.com](https://www.turing.com/)
 10. [High Impact Advice for your job search](https://blog.otta.com/high-impact-advice-for-your-job-search/)
+11. [ Top 10 AI-powered resumes that will get you the interview (ATS-friendly) 👨‍💻](https://www.linkedin.com/feed/update/urn:li:activity:7034870103070441472/)
+12. [Preparing for a data science interview check out this series of articles](https://www.linkedin.com/feed/update/urn:li:activity:7034185200469258242/)
+13. [3 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐆𝐞𝐭 & 𝐏𝐚𝐬𝐬 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰](https://www.linkedin.com/feed/update/urn:li:activity:7031321165289664512/)
+14. [10 repositories from GitHub that will transform the way you approach technical interviews](https://www.linkedin.com/feed/update/urn:li:activity:7027861618067681280/)
+15. 
+
 
 ## Job Salaries
 1. [Tech pays](https://techpays.eu/)
