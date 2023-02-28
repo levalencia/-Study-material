@@ -73,3 +73,15 @@
 
 ## Ethical AI
 1. [The Institute for Ethical AI & Machine Learning](https://ethical.institute/principles.html)
+
+
+## Where to find remote Jobs
+1. [Working Nomads](https://www.workingnomads.com/jobs)
+2. [Angel.co](https://angel.co/)
+3. [RemoteOk](https://remoteok.com/)
+4. [Remoteive](https://remotive.com/)
+5. [Himalayas](https://himalayas.app/jobs)
+6. [WeWorkRemotely](https://weworkremotely.com/)
+7. [JustRemote](https://justremote.co/)
+8. [Remote](https://remote.co/)
+9. [Otta](https://otta.com/)
