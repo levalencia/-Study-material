@@ -10,6 +10,8 @@
 6. [𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝗡𝗟𝗣 𝗣𝗮𝗽𝗲𝗿𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://www.linkedin.com/feed/update/urn:li:activity:7033083085587890176/)
 7. [Gradient Descent in ML](https://www.linkedin.com/feed/update/urn:li:activity:7032352321711800320/)
 8. [Stop using pandas](https://www.linkedin.com/feed/update/urn:li:activity:7031275969021698048/)
+9. [Metric Selection & Model Evaluation](https://www.linkedin.com/feed/update/urn:li:activity:7024144276510937088/)
+
 
 ## Recommended Git Repos
 1. [Microsoft Recommenders Systems](https://github.com/microsoft/recommenders)
@@ -51,7 +53,7 @@
 3. [How to actually use ChatGPT](https://www.linkedin.com/feed/update/urn:li:activity:7034873600264335360/)
 4. [Prompt Engineering Guide](https://www.linkedin.com/feed/update/urn:li:activity:7034896686514593792/)
 5. [10 techniques to get massively ahead with AI](https://www.linkedin.com/feed/update/urn:li:activity:7031183410404495360/)
-
+6. [Learn Prompting](https://learnprompting.org/docs/intro)
 
 
 ## Datasets
