@@ -1,7 +1,7 @@
 # Luis Valencia Personal Study material
 
 
-## Study Material
+## Random Study Material Or posts
 1. [Zero to Mastery Machine Learning](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master)
 2. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 3. [Start Machine Learning in 2023 - Become an expert for free](https://github.com/louisfb01/start-machine-learning)
@@ -11,7 +11,10 @@
 7. [Gradient Descent in ML](https://www.linkedin.com/feed/update/urn:li:activity:7032352321711800320/)
 8. [Stop using pandas](https://www.linkedin.com/feed/update/urn:li:activity:7031275969021698048/)
 9. [Metric Selection & Model Evaluation](https://www.linkedin.com/feed/update/urn:li:activity:7024144276510937088/)
-
+10. [𝐓𝐢𝐦𝐞 𝐒𝐞𝐫𝐢𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐞𝐦𝐲𝐬𝐭𝐢𝐟𝐢𝐞𝐝: 𝐓𝐨𝐩 𝟐𝟎 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐩𝐥𝐮𝐬 𝐓𝐲𝐩𝐞𝐬, 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬](https://www.linkedin.com/feed/update/urn:li:activity:7022158715126444032/)
+11. [Model Evaluation, Model Selection, and Algorithm
+Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf)
+12 [Data Cleaning Checklist](https://res.cloudinary.com/dyd911kmh/image/upload/v1654855370/Marketing/Blog/Data_Cleaning_Checklist.pdf)
 
 ## Recommended Git Repos
 1. [Microsoft Recommenders Systems](https://github.com/microsoft/recommenders)
@@ -20,7 +23,7 @@
 4. [Microsoft Forecasting Best Practices](https://github.com/microsoft/forecasting)
 5. [Awesome Data Science](https://github.com/academic/awesome-datascience)
 6. [The Algorithms](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
-
+7. [817 Machine Learning Real-World Projects](https://lnkd.in/g2N2fX_8)
 ## Courses
 1. [ Learn How to Build Cutting-Edge Models ](https://huggingface.co/course/chapter1/1)
 
@@ -54,7 +57,8 @@
 4. [Prompt Engineering Guide](https://www.linkedin.com/feed/update/urn:li:activity:7034896686514593792/)
 5. [10 techniques to get massively ahead with AI](https://www.linkedin.com/feed/update/urn:li:activity:7031183410404495360/)
 6. [Learn Prompting](https://learnprompting.org/docs/intro)
-
+7. [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://www.linkedin.com/feed/update/urn:li:activity:7036549105573060608/)
+8. [A quick and dirty Python script to add Voice Interface to OpenAI APIs. No typing, just speak and it will respond by talking back.](https://paragshah.medium.com/add-voice-interface-to-chatgpt-openai-apis-166ed58d1d74)
 
 ## Datasets
 1. [𝟭𝟬 𝗙𝗥𝗘𝗘 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝘆𝗼𝘂𝗿 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼](https://www.linkedin.com/feed/update/urn:li:activity:7028339013920980992/)
@@ -74,7 +78,11 @@
 12. [Preparing for a data science interview check out this series of articles](https://www.linkedin.com/feed/update/urn:li:activity:7034185200469258242/)
 13. [3 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐆𝐞𝐭 & 𝐏𝐚𝐬𝐬 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰](https://www.linkedin.com/feed/update/urn:li:activity:7031321165289664512/)
 14. [10 repositories from GitHub that will transform the way you approach technical interviews](https://www.linkedin.com/feed/update/urn:li:activity:7027861618067681280/)
-15. 
+15. [Sharing a detailed step-by-step breakdown of a resume that got shortlisted by Google, Microsoft, and Amazon!](https://www.linkedin.com/feed/update/urn:li:activity:7023868935410266112/)
+16. [BEHAVIORAL ROUNDS IN A NUTSHELL!](https://www.linkedin.com/feed/update/urn:li:activity:7022741511033286656/)
+17. [SITES TO GET REMOTE JOBS](https://www.linkedin.com/feed/update/urn:li:activity:7022139590882791424/)
+18. [Harvard University provided some feedback how a good CV, cover letter, .. should look like](https://www.linkedin.com/feed/update/urn:li:activity:7020634682677428224/)
+19. [Here is a list of companies around the globe that are remote friendly](https://www.linkedin.com/feed/update/urn:li:activity:7017950664190230528/)
 
 
 ## Job Salaries
